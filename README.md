@@ -1,4 +1,4 @@
-# Movie-website
+# Movie-website(HTML+CSS)
 simple movie website landing page
 --
 dawnload the zip file and run 
